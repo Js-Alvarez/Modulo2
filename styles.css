@@ -1,6 +1,6 @@
 body{
     font-family:"Montserrat",sans-serif;
-    background-image: url(/asset/fondo.png);
+    background-image: url(./asset/fondo.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
